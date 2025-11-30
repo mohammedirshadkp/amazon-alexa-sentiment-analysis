@@ -242,6 +242,4 @@ Social Media Analytics – Course Project
 <hr />
 
 <h1>✔ License</h1>
-<p>
-MIT License (optional – can be added as <code>LICENSE</code> file if needed).
-</p>
+
