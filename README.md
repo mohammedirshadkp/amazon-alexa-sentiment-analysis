@@ -241,5 +241,5 @@ Social Media Analytics – Course Project
 
 <hr />
 
-<h1>✔ License</h1>
+
 
